@@ -7,10 +7,6 @@
   <img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic.jpg?raw=true" width="150" style="border-radius: 50%;" />
 </div>
 
-📸 프로필 사진:  
-<img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic.jpg?raw=true" width="150"/>
-
-
 ---
 
 ## 📌 목차  
