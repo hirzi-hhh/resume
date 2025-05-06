@@ -1,7 +1,6 @@
 # 👨‍💻✨ 히르지 이력서
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic%202.png?raw=true" width="160" style="border-radius: 50%; margin-right: 20px;" />
   <div>
     <h2>컴퓨터소프트웨어 전공 / 프론트엔드 개발자</h2>
     <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
@@ -9,6 +8,7 @@
       <li>📧 Personal: <a href="mailto:hirzirsyad2@gmail.com">hirzirsyad2@gmail.com</a></li>
     </ul>
   </div>
+  <img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic%202.png?raw=true" width="160" style="border-radius: 50%; margin-left: 20px;" />
 </div>
 
 ---
