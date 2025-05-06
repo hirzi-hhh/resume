@@ -1,11 +1,11 @@
 # 👨‍💻✨ 히르지 이력서
 **컴퓨터소프트웨어 전공 / 프론트엔드 개발자**
 
-📧 Email: [hirzi@m365.dongyang.ac.kr](mailto:hirzi@m365.dongyang.ac.kr) / [hirziirsyad2@gmail.com](mailto:hirziirsyad2@gmail.com)
-
 <div align="right">
   <img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic.jpg?raw=true" width="150" style="border-radius: 50%;" />
 </div>
+
+📧 Email: [hirzi@m365.dongyang.ac.kr](mailto:hirzi@m365.dongyang.ac.kr) / [hirziirsyad2@gmail.com](mailto:hirziirsyad2@gmail.com)
 
 ---
 
