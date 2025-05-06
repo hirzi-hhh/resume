@@ -3,6 +3,10 @@
 
 📧 Email: [hirzi@m365.dongyang.ac.kr](mailto:hirzi@m365.dongyang.ac.kr) / [hirziirsyad2@gmail.com](mailto:hirziirsyad2@gmail.com)
 
+<div align="right">
+  <img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic.jpg?raw=true" width="150" style="border-radius: 50%;" />
+</div>
+
 📸 프로필 사진:  
 <img src="https://github.com/hirzi-hhh/hirzi-hhh/blob/main/profile-pic.jpg?raw=true" width="150"/>
 
