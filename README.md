@@ -1,8 +1,9 @@
 # 👨‍💻 히르지 이력서
 **컴퓨터소프트웨어 전공 / 프론트엔드 개발자**
 
-📧 Email: hirzi@m365.dongyang.ac.kr
-📸 프로필 사진:<!-- You can upload your profile image in your GitHub repo and link it here -->
+📧 Work Email: hirzi@m365.dongyang.ac.kr 
+📧 Personal Email: hirziirsyad2@gmail.com
+<!--  📸 프로필 사진:You can upload your profile image in your GitHub repo and link it here -->
 
 ---
 
